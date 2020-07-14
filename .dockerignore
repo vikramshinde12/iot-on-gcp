@@ -1,0 +1,8 @@
+/terraform/terraform.tfstate.backup
+/terraform/terraform-key.json
+/terraform/.terraform/
+/terraform/terraform.tfstate
+/devices/
+/terraform/
+/venv/
+.idea/

@@ -1,0 +1,7 @@
+project_name = "project-foo-123456"
+region = "us-central1"
+zone = "us-central1-a"
+sendgrid_api_key = "AA.mhHjI40XRYi4lG70jyQ6nw.jfybLDUAfQMdYZxToJVK9yZCZW31_EciZlnAPotaTo" #dummy key
+from_email = "vikramshindemastek@gmail.com"
+to_email = "vik.shinde@gmail.com"
+num_of_devices = 4
