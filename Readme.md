@@ -8,7 +8,7 @@ Following components are used
 * Cloud Function
 * Cloud Firestore
 
-![Architecture](https://github.com/vikramshinde12/iot-on-gcp/blob/master/Architecture?raw=true)
+![Architecture](https://github.com/vikramshinde12/iot-on-gcp/blob/master/Architecture.png)
 
 ### Create Service Account
 1. Create Service Account
